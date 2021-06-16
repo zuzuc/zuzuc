@@ -12,7 +12,7 @@
 
 
 ### Welcome to my GitHub  
-I have started my web development journey in February 2021 💻🌱  
+I have started my web development journey in February 2021 🌱💻  
 
 <br/>  
 
