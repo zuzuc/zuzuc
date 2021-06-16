@@ -1,4 +1,4 @@
-## Hi, I´m Franziska (she/her) 😊  
+## Hi, I´m Franziska (she/her) 👋 👩‍💻  
   
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/franziska-luig/" target="_blank">
