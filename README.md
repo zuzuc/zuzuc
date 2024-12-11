@@ -1,18 +1,7 @@
 ## Hi, I´m Franziska (she/her) 👋
   
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/franziska-luig/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/zuzuc" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-### Welcome to my GitHub  
-I have started my web development journey in February 2021 🌱💻  
+ <br/> 
+I am an analytical and creative web developer with an interdisciplinary background. With more than 3 years of experience in building design systems and pattern libraries in native web technologies (HTML, CSS, Vanilla JavaScript) as well as React, I am currently expanding more in the area of Web Accessibility.
 
 <br/>  
 
@@ -48,8 +37,11 @@ I have started my web development journey in February 2021 🌱💻
 
 
 ----
-## Join me on
+## Connect with me
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/franziska-luig/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://github.com/https://github.com/zuzuc" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
