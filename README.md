@@ -39,7 +39,7 @@ I have started my web development journey in February 2021 🌱💻
 ## My Stats:
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuzuc&theme=vision-friendly-dark" style="max-width: 100%" />
+<img width="350px" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuzuc&amp;theme=city_lights&amp;layout=compact&amp;hide_border=true" style="max-width: 100%;" />
 
 </td><td valign="top" width="50%">
 
@@ -53,9 +53,6 @@ I have started my web development journey in February 2021 🌱💻
 
 <br/>  
 
-  
-
-<br/>  
 
 
 <br />
