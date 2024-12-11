@@ -46,13 +46,6 @@ I have started my web development journey in February 2021 🌱💻
 
 <br/>  
 
-  
-
-<br/>  
-
-
-
-<br />
 
 ----
 ## Join me on
