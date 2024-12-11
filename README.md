@@ -39,7 +39,7 @@ I have started my web development journey in February 2021 🌱💻
 ## My Stats:
 <table><tr><td valign="top" width="50%">
 
-<img width="350px" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuzuc&amp;theme=city_lights&amp;layout=compact&amp;hide_border=true" style="max-width: 100%;" />
+<img width="350px" src="https://camo.githubusercontent.com/b02205ffb61a469dfe16059bb1208da1c6ed7911445d14403ebcd1a742053af5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6174636875506974636875267468656d653d636974795f6c6967687473266c61796f75743d636f6d7061637426686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuzuc&theme=city_lights&layout=compact&hide_border=true" style="max-width: 100%;" />
 
 </td><td valign="top" width="50%">
 
