@@ -1,6 +1,7 @@
 ## Hi, I´m Franziska 👋
   
  <br/> 
+ 
 🔭 I´m an analytical and creative web developer, who started her development journey in February 2021.
 
 💻 I have more than 3 years of experience in building design systems and pattern libraries in native web technologies (HTML, CSS, Vanilla JavaScript) as well as React.
