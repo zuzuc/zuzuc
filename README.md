@@ -1,7 +1,11 @@
-## Hi, I´m Franziska (she/her) 👋
+## Hi, I´m Franziska 👋
   
  <br/> 
-I am an analytical and creative web developer with an interdisciplinary background. With more than 3 years of experience in building design systems and pattern libraries in native web technologies (HTML, CSS, Vanilla JavaScript) as well as React, I am currently expanding more in the area of Web Accessibility.
+🔭 I´m an analytical and creative web developer, who started her development journey in February 2021.
+
+💻 I have more than 3 years of experience in building design systems and pattern libraries in native web technologies (HTML, CSS, Vanilla JavaScript) as well as React.
+
+🌱 I am currently expanding more in the area of Web Accessibility.
 
 <br/>  
 
