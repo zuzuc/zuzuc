@@ -1,8 +1,8 @@
 ## Hi, I´m Franziska 👋
 
-- 🔭 I´m an analytical and creative web developer, who started her development journey in February 2021.
-- 💻 I have more than 3 years of experience in building design systems and pattern libraries in native web technologies (HTML, CSS, Vanilla JavaScript) as well as React.
-- 🌱 I am currently expanding more in the area of Web Accessibility.
+<p>🔭 I´m an analytical and creative web developer, who started her development journey in February 2021.</p>
+<p>💻 I have more than 3 years of experience in building design systems and pattern libraries in native web technologies (HTML, CSS, Vanilla JavaScript) as well as React.</p>
+<p>🌱 I am currently expanding more in the area of Web Accessibility.</p>
 
 ## Languages and Tools
 
@@ -12,8 +12,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" title="CSS3" alt="CSS3" height="40" />  
 <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" title="HTML5" alt="HTML5" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40" />
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="NodeJS" alt="Node.js" height="40" />
-<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" title="ExpressJS" alt="Express.js" height="40" />  
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="NodeJS" alt="Node.js" height="40" / 
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" height="40" />  
 <img src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" title="D3JS" alt="D3.js" height="40" />  
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" title="Git" alt="Git" height="40" />
