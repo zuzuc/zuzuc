@@ -13,18 +13,18 @@
 
 ## Languages and Tools:  
 <div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" title="Git" alt="Git" height="40" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" title="React" alt="React" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" title="Sass" alt="Sass" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" title="CSS3" alt="CSS3" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" title="HTML5" alt="HTML5" height="40" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40" /> 
+<img style="margin: 10px; background: white;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="NodeJS" alt="Node.js" height="40" /> 
+<img style="margin: 10px; background: white;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" title="ExpressJS" alt="Express.js" height="40" />  
+<img style="margin: 10px; background: white;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" title="D3JS" alt="D3.js" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" title="Figma" alt="Figma" height="40"> 
+
 </div>  
 
 <br/>  
